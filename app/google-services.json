@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "507118294479",
+    "firebase_url": "https://fir-email-50580-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fir-email-50580",
+    "storage_bucket": "fir-email-50580.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507118294479:android:48def86e12dd63971caeba",
+        "android_client_info": {
+          "package_name": "com.example.nguyenhoangnhat_todoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "507118294479-3j7giftfhn88g4at3si7jr9urs5f6tna.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMjMGgsiUbFIM3DXfhVuZlpb64jrhIEZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "507118294479-3j7giftfhn88g4at3si7jr9urs5f6tna.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
